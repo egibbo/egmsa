@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\workspace-lab\egmsa\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2472914143.index
+2141849121.index
+497249209.index
+1044909243.index
+1169980415.index
+2649685379.index
